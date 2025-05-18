@@ -26,5 +26,5 @@ spec:
     - p, proj:team-a:read-write, applications, sync, team-a/*, allow
     - p, proj:team-a:read-write, applications, update, team-a/*, allow        
   sourceRepos:
-  - https://github.com/kostis-codefresh/intro-argocd-rbac.git
+  - https://github.com/S4k1dl0/argocd-rbac.git
   
